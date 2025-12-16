@@ -274,7 +274,7 @@ if (!empty($_REQUEST['sessionMode'])) {
 
         // Редирект на страницу оплаты Stripe если сессия создана успешно 
         if (!empty($session->url)) {
-            LocalRedirect($session->url);
+            LocalRedirect($session->url, true);
             die();
         }
 
