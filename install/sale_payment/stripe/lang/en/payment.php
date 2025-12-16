@@ -1,5 +1,5 @@
 <?php
-$MESS["STRIPE_TITLE"]="Stripe";
+$MESS["STRIPE_TITLE"]="Stripe (stripe.com)";
 $MESS["STRIPE_DDESCR"]="Pay system Stripe.com";
 $MESS["STRIPE_TEMPLATE_NAME"]="Template";
 $MESS["STRIPE_TEMPLATE_DESCR"]="Select template or create new";

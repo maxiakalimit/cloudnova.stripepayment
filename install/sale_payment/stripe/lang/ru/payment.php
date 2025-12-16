@@ -1,5 +1,5 @@
 <?php
-$MESS["STRIPE_TITLE"]="Stripe";
+$MESS["STRIPE_TITLE"]="Stripe (stripe.com)";
 $MESS["STRIPE_DDESCR"]="Платежная система Stripe.com";
 $MESS["STRIPE_TEMPLATE_NAME"]="Шаблон";
 $MESS["STRIPE_TEMPLATE_DESCR"]="Укажите один из нескольких шаблонов или создайте свой";
