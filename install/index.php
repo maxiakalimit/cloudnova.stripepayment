@@ -21,8 +21,8 @@ Class cloudnova_stripepayment extends CModule
             $this->MODULE_VERSION = $arModuleVersion["VERSION"];
             $this->MODULE_VERSION_DATE = $arModuleVersion["VERSION_DATE"];
         } else {
-            $this->MODULE_VERSION = '1.4.0';
-            $this->MODULE_VERSION_DATE = '2023-08-02 00:00:01';
+            $this->MODULE_VERSION = '1.6.0';
+            $this->MODULE_VERSION_DATE = '2025-12-16 12:00:00';
         }
         $this->MODULE_NAME = GetMessage("CLOUDNOVA_MODULE_NAME_STRIPE");
         $this->MODULE_DESCRIPTION = GetMessage("CLOUDNOVA_MODULE_DESCRIPTION_STRIPE");
